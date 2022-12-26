@@ -66,4 +66,14 @@ body {
     margin: auto;
 }
 
+#tan-table {
+    width: 450px;
+    height: 140px;
+    background-color: #D2691E;
+    position: absolute;
+    left: 15px;
+    top: 275px;
+    z-index: 1;
+}
+
 
