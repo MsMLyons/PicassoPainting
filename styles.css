@@ -123,3 +123,25 @@ body {
     margin-top: 8%;
     margin-left: 13%;
 }
+
+.blue {
+    background-color: #1E90FF;
+}
+
+#blue-left {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
+#blue-right {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
+
+
