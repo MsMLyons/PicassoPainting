@@ -99,4 +99,27 @@ body {
     top: -150px;
 }
 
+#gray-mask {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(167, 162, 117);
+    position: absolute;
+    left: 70px;
+    top: -10px;
+}
 
+#white-paper {
+    width: 400px;
+    height: 100px;
+    background-color: GhostWhite;
+    position: absolute;
+    left: -150px;
+    top: 250px;
+    z-index: 1;
+}
+
+.fa-music {
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 13%;
+}
